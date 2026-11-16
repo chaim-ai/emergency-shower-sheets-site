@@ -105,7 +105,7 @@ document.getElementById('cf').addEventListener('submit',e=>{
   if(f.org.value)lines.push(`${m.org}: ${f.org.value}`);
   if(f.qty.value)lines.push(`${m.qty}: ${f.qty.value}`);
   lines.push('',`${m.msg}:`,f.msg.value);
-  location.href='mailto:Ofleisher@gmail.com?subject='+encodeURIComponent(m.subj+(f.org.value?' – '+f.org.value:''))+'&body='+encodeURIComponent(lines.join('\n'));
+  location.href='mailto:Ofleisher@gmail.com?cc=chaim@galili.net&subject='+encodeURIComponent(m.subj+(f.org.value?' – '+f.org.value:''))+'&body='+encodeURIComponent(lines.join('\n'));
 });
 
 // header, menu, reveal
