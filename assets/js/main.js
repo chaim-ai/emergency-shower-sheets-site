@@ -5,7 +5,7 @@ const EN={
 "brand":"Emergency Shower Sheets",
 "nav.benefits":"Benefits","nav.how":"How it works","nav.video":"Video","nav.uses":"Who it's for","nav.approvals":"Approvals","nav.brochure":"Brochure","nav.about":"Oren Fleisher","nav.contact":"Contact","nav.zaka":"ZAKA",
 "lang.btn":"עברית",
-"zk.k":"ZAKA","zk.h":"Committed to the emergency world","zk.t":"Oren Fleisher – a veteran ZAKA volunteer","zk.p":"Oren Fleisher is a veteran volunteer with ZAKA, and helps advance new developments and innovation for the emergency world.","zk.btn":"Visit the ZAKA website",
+"zk.k":"ZAKA","zk.h":"Committed to the emergency world","zk.t":"Oren Fleisher – a veteran ZAKA volunteer","zk.p":"Oren Fleisher is a veteran volunteer with ZAKA, and helps advance new developments and innovation for the emergency world.","zk.btn":"Visit the ZAKA website","zk.org":"ZAKA (Disaster Victim Identification) is a volunteer organization with deep professional expertise in the recovery and care of victims of unnatural death – in terror attacks, accidents and disasters. Its volunteers serve out of a sense of mission and without pay, helping every person regardless of religion, race or gender, in Israel and around the world.",
 "hero.pill":"Innovative Israeli development &amp; patent",
 "hero.h1":"Emergency <span>Shower Sheets</span>",
 "hero.lead":"A full shower – without a shower. One dry sheet, <b>only 20 ml of water</b>, and a complete adult body wash. Skin air-dries in about 90 seconds, no towel needed.",
